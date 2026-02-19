@@ -16,5 +16,5 @@ Sinta-se à vontade para contribuir com este projeto. Abra uma issue ou envie um
 
 ## Licença
 
-Este projeto está licenciado sob a MIT License. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto é um teste, um caso de uso para estudo.
 
